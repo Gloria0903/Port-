@@ -48,7 +48,7 @@ export const DATA = {
     {
       title: "HakiPro Legal Management System",
       overline: "Featured Project",
-      description: "An Kenya Legal Management System that handles everything like document analyssis using customised AI tools to automate law firm operations.",
+      description: "A Kenya Legal Management System that handles everything like document analysis using customised AI tools to automate law firm operations.",
       tech: ["React", "Javascript", "Node.js", "vite"],
       github: "https://github.com/Gloria0903/hakipro",
       external: "https://hakipro.vercel.app/",

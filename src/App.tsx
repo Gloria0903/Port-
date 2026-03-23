@@ -50,7 +50,7 @@ const About = lazy(() => Promise.resolve({ default: () => (
         <div className="absolute inset-0 border-2 border-[#64ffda] rounded-md translate-x-5 translate-y-5 group-hover:translate-x-3 group-hover:translate-y-3 transition-transform" />
         <div className="relative rounded-md overflow-hidden bg-[#64ffda]">
           <img 
-            src="https://picsum.photos/seed/gloria/600/600" 
+            src="/images/prof.jpeg" 
             alt="Gloria" 
             className="w-full grayscale mix-blend-multiply hover:grayscale-0 hover:mix-blend-normal transition-all duration-500"
             referrerPolicy="no-referrer"
