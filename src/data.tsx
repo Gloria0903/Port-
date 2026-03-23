@@ -46,39 +46,39 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Klaud10 Learning Platform",
+      title: "HakiPro Legal Management System",
       overline: "Featured Project",
-      description: "An interactive e-learning platform specifically designed for African developers to master cloud technologies with localized content and mentorship.",
-      tech: ["React", "Firebase", "Node.js", "Cloudinary"],
-      github: "#",
-      external: "#",
-      image: "https://picsum.photos/seed/learning/1000/600"
+      description: "An Kenya Legal Management System that handles everything like document analyssis using customised AI tools to automate law firm operations.",
+      tech: ["React", "Javascript", "Node.js", "vite"],
+      github: "https://github.com/Gloria0903/hakipro",
+      external: "https://hakipro.vercel.app/",
+      image: "https://hakipro.vercel.app/"
     },
     {
-      title: "CloudScale Monitor",
+      title: "Bloomguard-trace",
       overline: "Featured Project",
-      description: "A real-time monitoring dashboard for Kubernetes clusters with automated alerting and performance metrics visualization.",
-      tech: ["Go", "Kubernetes", "Prometheus", "Grafana"],
-      github: "#",
-      external: "#",
-      image: "https://picsum.photos/seed/monitor/1000/600"
+      description: "A real-time monitoring dashboard for farmers to help in crop diesease detection.",
+      tech: ["TypeScript", "Solidity"],
+      github: "https://github.com/Gloria0903/bloomguard-trace",
+      external: "https://bloomguard-trace.vercel.app/",
+      image: "https://bloomguard-trace.vercel.app/"
     },
     {
-      title: "SecureAuth Gateway",
+      title: "BioFarm Hub",
       overline: "Featured Project",
-      description: "An OAuth2.0 compliant authentication gateway with multi-factor support, designed for high-security enterprise environments.",
-      tech: ["Node.js", "Redis", "AWS Lambda", "Terraform"],
-      github: "#",
-      external: "#",
-      image: "https://picsum.photos/seed/gateway/1000/600"
+      description: "Empowers Kenyan smallholder farmers to convert livestock manure and crop waste into clean biogas for cooking, high-quality organic fertilizer, and verifiable carbon credits through smart AI monitoring, blockchain traceability, and M-Pesa-integrated PAYGO financing.",
+      tech: ["Node.js", "TypeScript", "Blockchain"],
+      github: "https://github.com/Gloria0903/biofarm-hub",
+      external: "https://biofarm-hub.vercel.app/",
+      image: "https://biofarm-hub.vercel.app/"
     }
   ],
   socials: [
     { icon: <Github size={20} />, href: "https://github.com/Gloria0903", label: "GitHub" },
     { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/in/gloria-njeru-3ab01827a/", label: "LinkedIn" },
-    { icon: <Twitter size={20} />, href: "#", label: "Twitter" },
-    { icon: <Instagram size={20} />, href: "#", label: "Instagram" },
-    { icon: <Codepen size={20} />, href: "#", label: "CodePen" }
+    // { icon: <Twitter size={20} />, href: "#", label: "Twitter" },
+    // { icon: <Instagram size={20} />, href: "#", label: "Instagram" },
+    // { icon: <Codepen size={20} />, href: "#", label: "CodePen" }
   ],
   email: "kumioklaud@gmail.com"
 };
