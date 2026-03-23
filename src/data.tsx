@@ -52,7 +52,7 @@ export const DATA = {
       tech: ["React", "Javascript", "Node.js", "vite"],
       github: "https://github.com/Gloria0903/hakipro",
       external: "https://hakipro.vercel.app/",
-      image: "https://hakipro.vercel.app/"
+      image: "/images/hakipro.vercel.app_.png"
     },
     {
       title: "Bloomguard-trace",
@@ -61,7 +61,7 @@ export const DATA = {
       tech: ["TypeScript", "Solidity"],
       github: "https://github.com/Gloria0903/bloomguard-trace",
       external: "https://bloomguard-trace.vercel.app/",
-      image: "https://bloomguard-trace.vercel.app/"
+      image: "/images/bloomguard-trace.vercel.app_.png"
     },
     {
       title: "BioFarm Hub",
@@ -70,7 +70,7 @@ export const DATA = {
       tech: ["Node.js", "TypeScript", "Blockchain"],
       github: "https://github.com/Gloria0903/biofarm-hub",
       external: "https://biofarm-hub.vercel.app/",
-      image: "https://biofarm-hub.vercel.app/"
+      image: "/images/biofarm-hub.vercel.app_.png"
     }
   ],
   socials: [
